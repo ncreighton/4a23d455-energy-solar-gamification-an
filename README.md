@@ -1,2 +1,28 @@
-# 4a23d455-energy-solar-gamification-an
-Built for energy solar professionals who are tired of missing messages, manually responding to routine requests at all hours.  24/7 operation — runs on your server or scales to any hosting platform. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Energy &amp; Solar Gamification And Rewards System — fully
+# Energy & Solar Gamification and Rewards System Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x214ndPp2k46xy9rKcZt0d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x214ndPp2k46xy9rKcZt0d)
+
